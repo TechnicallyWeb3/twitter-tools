@@ -1,3 +1,5 @@
+This Package is intended for use with Python.
+
 To use this package: 
 ##1. Install the dependancies:
 slenium:
